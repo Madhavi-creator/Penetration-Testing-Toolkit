@@ -30,3 +30,6 @@ Socket programming
 Multithreading
 Purpose: This toolkit demonstrates the basic concepts used in penetration testing and ethical hacking.
 
+OUTPUT:
+
+![Image](https://github.com/user-attachments/assets/04c2f6d9-1d57-4002-8610-6141c0fbfb4d)
